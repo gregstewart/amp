@@ -1,0 +1,207 @@
+.light_gray {
+	font-family: tahoma;
+	font-size: 12px;
+	color: #000000;
+	background-color: #dddddd;
+}
+
+.light_grayb {
+	font-family: tahoma;
+	font-size: 18px;
+	font-weight: bolder; 
+	color: #000000;
+	background-color: #dddddd;
+}
+
+.norm {
+	font-family: tahoma;
+	font-size: 10px;
+	color: #000000;
+	background-color: #ffffff;
+}
+
+.normb {
+	font-family: tahoma;
+	font-size: 12px;
+	font-weight: bolder; 
+	color: #000000;
+	background-color: #ffffff;
+}
+
+.alert {
+	font-family: tahoma;
+	font-size: 12px;
+	font-weight: bolder; 
+	color: #ff0000;
+	background-color: #ffffff;
+}
+
+.alert_small {
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: bolder; 
+	color: #ff0000;
+	background-color: #ffffff;
+}
+
+.related {
+	font-family: tahoma;
+	font-size: 10px;
+	color: #666666;
+	background-color: #ffffff;
+}
+
+.form {
+	font-family: tahoma;
+	font-size: 10px;
+	color: #000000;
+	background-color: #ffffff;
+}
+
+.green {
+	background-color: #00cc66;
+	font-family: tahoma;
+	font-size: 10px;
+	color: #000000;
+}
+
+.greenb {
+	background-color: #00cc66;
+	font-family: tahoma;
+	font-size: 12px;
+	color: #000000;
+}
+
+.red {
+	background-color: #ff6666;
+	font-family: tahoma;
+	font-size: 10px;
+	color: #000000;
+}
+
+.redb {
+	background-color: #ff6666;
+	font-family: tahoma;
+	font-size: 12px;
+	color: #000000;
+}
+
+.lilac {
+	background-color: #cc99ff;
+	font-family: tahoma;
+	font-size: 10px;
+	color: #000000;
+}
+
+.lilacb {
+	background-color: #cc99ff;
+	font-family: tahoma;
+	font-size: 12px;
+	color: #000000;
+}
+
+.orange {
+	background-color: #ffcc33;
+	font-family: tahoma;
+	font-size: 10px;
+	color: #000000;
+}
+
+.orangeb {
+	background-color: #ffcc33;
+	font-family: tahoma;
+	font-size: 12px;
+	color: #000000;
+}
+
+.yellow {
+	background-color: #ffff99;
+	font-family: tahoma;
+	font-size: 10px;
+	color: #000000;
+}
+
+.yellowb {
+	background-color: #ffff99;
+	font-family: tahoma;
+	font-size: 12px;
+	color: #000000;
+}
+
+.blue {
+	background-color: #33ccff;
+	font-family: tahoma;
+	font-size: 10px;
+	color: #000000;
+}
+
+.blueb {
+	background-color: #33ccff;
+	font-family: tahoma;
+	font-size: 12px;
+	color: #000000;
+}
+
+a.norm {
+	font-family: tahoma;
+	font-size: 10px;
+	text-decoration: underline;
+	color: #000000;
+	background-color: #ffffff;
+}
+
+a.light_gray {
+	font-family: tahoma;
+	font-size: 10px;
+	text-decoration: underline;
+	color: #000000;
+	background-color: #dddddd;
+}
+
+a.green {
+	font-family: tahoma;
+	font-size: 10px;
+	text-decoration: underline;
+	color: #000000;
+	background-color: #00cc66;
+}
+
+a.red {
+	font-family: tahoma;
+	font-size: 10px;
+	text-decoration: underline;
+	color: #000000;
+	background-color: #ff6666;
+}
+
+a.lilac {
+	font-family: tahoma;
+	font-size: 10px;
+	text-decoration: underline;
+	color: #000000;
+	background-color: #cc99ff;
+}
+
+a.orange {
+	font-family: tahoma;
+	font-size: 10px;
+	text-decoration: underline;
+	color: #000000;
+	background-color: #ffcc33;
+}
+
+a.yellow {
+	font-family: tahoma;
+	font-size: 10px;
+	text-decoration: underline;
+	color: #000000;
+	background-color: #ffff99;
+}
+
+a.blue {
+	font-family: tahoma;
+	font-size: 10px;
+	text-decoration: underline;
+	color: #000000;
+	background-color: #33ccff;
+}
