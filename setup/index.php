@@ -2,12 +2,12 @@
 	error_reporting(0);
 	/*
 	// default test variables
-	$_POST['r_database'] = 'wild_tciasdb';
-	$_POST['r_username'] = 'wild_gregs';
-	$_POST['r_password'] = 'M966ald';
+	$_POST['r_database'] = 'databaseName';
+	$_POST['r_username'] = 'databaseUsername';
+	$_POST['r_password'] = 'databasePassword';
 	$_POST['r_host'] = 'localhost';
-	$_POST['r_url'] = 'http://www.tcias.shed/tcias_admin/';
-	$_POST['r_path'] = 'C:\\AppServers\\My Websites\\shed\\tcias\\corp\\tcias_admin';
+	$_POST['r_url'] = 'http://www.url.com/tcias_admin/';
+	$_POST['r_path'] = 'C:\\Path\\To\\Web\\site\\tcias_admin';
 	$_POST['r_site_name'] = '&amp;amp; &gt;&gt; admin';
 	*/
 	// settings
